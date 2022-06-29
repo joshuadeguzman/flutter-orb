@@ -4,7 +4,7 @@ usage:
   version: 2.1
   orbs:
     android: circleci/android@1.0.3
-    flutter: circleci/flutter@1.0
+    flutter: joshuadeguzman/flutter-orb@0.0.3
   jobs:
     distribute:
       executor:
